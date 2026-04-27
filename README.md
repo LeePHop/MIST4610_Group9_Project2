@@ -16,9 +16,15 @@ When formulating our research questions, it was deliberate that they would be us
 
 <img width="3167" height="1848" alt="Screenshot 2026-04-23 093049" src="https://github.com/user-attachments/assets/8b0eaf3a-6a1f-44c6-8f74-cad0a62b748f" />
 
-The question is very significant in relation to the insurer, as it is concerned with how much they may be exposed to risks and how they should cover for the risks. Companies that manufacture more cars with the possibility of defect, accident, or malfunction are more likely to attract more insurance claims. There will be many cases where large numbers of their products will have to be recalled, resulting in insurance claims for property damage and bodily injuries.
+The question is posed from the point of view of an insurance company to determine which manufacturers pose the biggest risk exposure on the basis of the number of recalls. From the chart, one can see that manufactures such as Ford, General Motors, and Chrysler have a large number of vehicles that could be affected, with figures running in excess of 100 million units. This is relevant due to the fact that the number of cars affected reflects the magnitude of claim risks faced by the insurer.
 
-On an economic basis, the question can enable the insurer to make considerations on the premium rates, risks involved in the underwriting process, and the coverage limits for particular brands. On social grounds, there may also be safety concerns involving the use of particular vehicles that should affect the consumers. This question is highly correlated with the dataset because it involves the analysis of “Manufacturer” and “Potentially Affected” variables.”
+From an insurance point of view, the bigger the number of recalls, the greater the probability of mechanical breakdowns and accidents resulting in claims that include collisions and liabilities. The probability of claims even from a few percents of the vehicles involved in the recalls would translate into considerable aggregate risk for the insurer.
+
+Moreover, through asking this particular question, we get an opportunity to differentiate between high frequency-low impact recalls and low frequency-high impact recalls. In essence, manufacturers who have less recall activities but whose recall volumes are enormous may be more risky for insurers compared to those with numerous smaller volume recalls. This is highly important for segmentation purposes as insurers need to make proper premium decisions on different makes and models.
+
+In economic terms, the outcomes of our study allow for premium, reinsurance, and capital management. We know that insurers are aware of the possibility of a sharp rise in recall-related claims and need to be adequately prepared. From social point of view, identification of manufacturers with enormous recall activity raises questions about safety standards.
+
+The connection between the question and the dataset is apparent from the variable "Manufacturer" and the numerical variable "Potentially Affected." Through the process of aggregation, the question becomes sophisticated and highly relevant, enabling the comparison of risks among different firms based on data.
 
 
 
