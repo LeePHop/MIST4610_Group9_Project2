@@ -22,6 +22,14 @@ On an economic basis, the question can enable the insurer to make considerations
 
 
 
-#Question 2
+    #Question 2: How have recall volumes (in terms of potentially affected vehicles) changed over time for Ford Motor Company?
 
 <img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
+
+It was formulated from the standpoint of the insurer, specifically, how risk changes through time for one significant automobile manufacturing firm. It is critical since insurers not only assess overall risk but also monitor its trends to foresee future claims and possible expenses.
+
+According to the graph, there are several noticeable peaks in the number of cars recalled by Ford. For instance, there were more than 10 million recalls during the beginning of the 2000s and almost 12.8 million recalls recently. Such peaks suggest that some specific periods are associated with high risks, when there are many vehicles that are prone to malfunction and, thus, can cause various accidents.
+
+From an insurance perspective, this particular question is significant since it aids in determining whether there is an increase, decrease, or variability in risk exposure by manufacturers over time. If there are consistent peaks, then it indicates inconsistency in the manufacturing process which in turn might result in the insurer hiking its premiums or even denying the policyholder cover. Economically, it affects the bottom line since the company has to pay out the claim. This issue is social since it has safety implications.
+
+The question has strong ties with the database used since “Report Received Date (Year)” represents time, while “Potentially Affected” represents the size of recalls. The combination of the two creates a more complex, analytical, and forward-looking perspective, thus making the question both sophisticated and relevant.
