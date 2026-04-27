@@ -30,7 +30,7 @@ The connection between the question and the dataset is apparent from the variabl
 
 
 
-    #Question 2: Has Ford improved their recalls over the last 26 years
+    Question 2: Has Ford improved their recalls over the last 26 years
 <img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
 
 It is vital to consider this question from the standpoint of an insurance company since its analysis will be able to reveal whether the risk profile of the company is getting better or, conversely, stays constant. The thing is, insurance companies always analyze trends in order to evaluate whether certain manufacturers become more reliable. Thus, this information affects premiums and the company's future estimates of claims.
