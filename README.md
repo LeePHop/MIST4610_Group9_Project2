@@ -30,14 +30,13 @@ The connection between the question and the dataset is apparent from the variabl
 
 
 
-    #Question 2: How have recall volumes (in terms of potentially affected vehicles) changed over time for Ford Motor Company?
-
+    #Question 2: Has Ford improved their recalls over the last 26 years
 <img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
 
-It was formulated from the standpoint of the insurer, specifically, how risk changes through time for one significant automobile manufacturing firm. It is critical since insurers not only assess overall risk but also monitor its trends to foresee future claims and possible expenses.
+It is vital to consider this question from the standpoint of an insurance company since its analysis will be able to reveal whether the risk profile of the company is getting better or, conversely, stays constant. The thing is, insurance companies always analyze trends in order to evaluate whether certain manufacturers become more reliable. Thus, this information affects premiums and the company's future estimates of claims.
 
-According to the graph, there are several noticeable peaks in the number of cars recalled by Ford. For instance, there were more than 10 million recalls during the beginning of the 2000s and almost 12.8 million recalls recently. Such peaks suggest that some specific periods are associated with high risks, when there are many vehicles that are prone to malfunction and, thus, can cause various accidents.
+From what we see in the graph, it becomes obvious that Ford has not made considerable improvements over the past 26 years. In particular, we can observe periods when the number of vehicles involved in the process was lower, but then, there was a rise in the number of recalls; at that, some recalls have even exceeded 12 million vehicles.
 
-From an insurance perspective, this particular question is significant since it aids in determining whether there is an increase, decrease, or variability in risk exposure by manufacturers over time. If there are consistent peaks, then it indicates inconsistency in the manufacturing process which in turn might result in the insurer hiking its premiums or even denying the policyholder cover. Economically, it affects the bottom line since the company has to pay out the claim. This issue is social since it has safety implications.
+From the perspective of insurance, this suggests that there is no improvement in terms of risk. Higher increases in recalls will mean that insurers will face a greater likelihood of claims, which will be detrimental to their bottom line. From an economic perspective, this will mean that insurers cannot afford to lower their risks when it comes to insurance coverage from Ford.
 
-The question has strong ties with the database used since “Report Received Date (Year)” represents time, while “Potentially Affected” represents the size of recalls. The combination of the two creates a more complex, analytical, and forward-looking perspective, thus making the question both sophisticated and relevant.
+This question is relevant to the database because of the two variable fields, “Report Received Date (Year)” and “Potentially Affected”. This question will help with a time series analysis of recalls over a period of years. This is an important question because of its predictability for the future.
