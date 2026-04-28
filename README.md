@@ -1,4 +1,4 @@
-# MIST4610_Group9_Project2
+# MIST4610 Group 9 Project 2
 
 # Team Members
 
