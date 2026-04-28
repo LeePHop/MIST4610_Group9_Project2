@@ -61,10 +61,10 @@ This question is relevant to the database because of the two variable fields, â€
 
 ## Manipulations
 
-For question 2, all of the same filter manipulations are applied from question 1. This is because the question 2 takes that information from question 1, and uses it to look specifically at one manufactuerer. 
-
-In question 2, we wanted to look specifically at Ford's recall trend. This is because they, by far, had the largest number of vehicle recalls, which made their product riskier than others. In order to look at Ford specifically, we filtered manufacturer by company, and only selected Ford.
+For question 2, all of the same filter manipulations are applied from question 1. This is because the question 2 takes that information from question 1, and uses it to look specifically at one manufactuerer. Additionally though, question 2 inlvolves us specifically analyzing Ford's recall trend. This is because they, by far, had the largest number of vehicle recalls, which made their product riskier than others. In order to look at Ford specifically, we filtered manufacturer by company, and only selected Ford. Combined with the other filters, we created a time series graph illustrating how Ford's recalls have changed over time. 
 
 For the rows, we changed Reports Received Date into a continous variable rather than a discrete variable. Since we are analyzing a trend over time, it makes more sense to identify the years we are looking at over time. 
+
+No calculations were made for this question. 
 
 ## Analysis
