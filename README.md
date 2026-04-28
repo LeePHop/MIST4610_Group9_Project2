@@ -1,5 +1,12 @@
 # MIST4610_Group9_Project2
 
+# Team Members
+
+1. [Lee Hopkins](https://github.com)
+2. [James Troutt](https://github.com/trouttjames)
+3. [Sean Fisher](https://github.com/SeanFishe5)
+4. [Akhila Kothapalli](https://github.com/akhilakoth04)
+
 # About Our Data Set
 
 The dataset utilized for the analysis was taken from the NHTSA Recall Database, which offers free access to safety recalls information for vehicles and equipment in the USA. This dataset consists of 29,940 rows and 15 columns, thus giving the possibility for an extensive analysis.
