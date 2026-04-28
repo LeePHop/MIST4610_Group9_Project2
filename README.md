@@ -18,6 +18,8 @@ When formulating our research questions, it was deliberate that they would be us
 
 <img width="3167" height="1848" alt="Screenshot 2026-04-23 093049" src="https://github.com/user-attachments/assets/8b0eaf3a-6a1f-44c6-8f74-cad0a62b748f" />
 
+# Why the question is important
+
 The question is posed from the point of view of an insurance company to determine which manufacturers pose the biggest risk exposure on the basis of the number of recalls. From the chart, one can see that manufactures such as Ford, General Motors, and Chrysler have a large number of vehicles that could be affected, with figures running in excess of 100 million units. This is relevant due to the fact that the number of cars affected reflects the magnitude of claim risks faced by the insurer.
 
 From an insurance point of view, the bigger the number of recalls, the greater the probability of mechanical breakdowns and accidents resulting in claims that include collisions and liabilities. The probability of claims even from a few percents of the vehicles involved in the recalls would translate into considerable aggregate risk for the insurer.
