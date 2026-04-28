@@ -47,7 +47,8 @@ No calculations were made in this question.
 # Question 2
 
     Has Ford improved their recalls over the last 26 years
-<img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
+<img width="3153" height="1851" alt="Screenshot 2026-04-28 184418" src="https://github.com/user-attachments/assets/c93ba41a-d4e8-4593-91f3-227d9d3dd24e" />
+
 
 ## Why the question is important
 
