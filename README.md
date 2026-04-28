@@ -14,11 +14,13 @@ Considering all the information above, one may conclude that the provided datase
 
 When formulating our research questions, it was deliberate that they would be useful to ask from the viewpoint of an insurance company. This is important because apart from being data-based, the research questions should be practical, with a focus on risk assessment, financial implications, and liability in the future. Insurance companies are heavily dependent on finding patterns in safety issues like recalls when deciding how much premiums to charge for their customers, which policy to underwrite, and the risk involved.
 
+#Questions
+
     Question 1: What vehicle manufacturers have the highest number of potentially affected parts from recalls between 2000 and 2026?
 
 <img width="3167" height="1848" alt="Screenshot 2026-04-23 093049" src="https://github.com/user-attachments/assets/8b0eaf3a-6a1f-44c6-8f74-cad0a62b748f" />
 
-# Why the question is important
+## Why the question is important
 
 The question is posed from the point of view of an insurance company to determine which manufacturers pose the biggest risk exposure on the basis of the number of recalls. From the chart, one can see that manufactures such as Ford, General Motors, and Chrysler have a large number of vehicles that could be affected, with figures running in excess of 100 million units. This is relevant due to the fact that the number of cars affected reflects the magnitude of claim risks faced by the insurer.
 
@@ -30,10 +32,15 @@ In economic terms, the outcomes of our study allow for premium, reinsurance, and
 
 The connection between the question and the dataset is apparent from the variable "Manufacturer" and the numerical variable "Potentially Affected." Through the process of aggregation, the question becomes sophisticated and highly relevant, enabling the comparison of risks among different firms based on data.
 
+## Manipulations
+
+## Analysis
 
 
     Question 2: Has Ford improved their recalls over the last 26 years
 <img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
+
+## Why the question is important
 
 It is vital to consider this question from the standpoint of an insurance company since its analysis will be able to reveal whether the risk profile of the company is getting better or, conversely, stays constant. The thing is, insurance companies always analyze trends in order to evaluate whether certain manufacturers become more reliable. Thus, this information affects premiums and the company's future estimates of claims.
 
@@ -42,3 +49,7 @@ From what we see in the graph, it becomes obvious that Ford has not made conside
 From the perspective of insurance, this suggests that there is no improvement in terms of risk. Higher increases in recalls will mean that insurers will face a greater likelihood of claims, which will be detrimental to their bottom line. From an economic perspective, this will mean that insurers cannot afford to lower their risks when it comes to insurance coverage from Ford.
 
 This question is relevant to the database because of the two variable fields, “Report Received Date (Year)” and “Potentially Affected”. This question will help with a time series analysis of recalls over a period of years. This is an important question because of its predictability for the future.
+
+## Manipulations
+
+## Analysis
