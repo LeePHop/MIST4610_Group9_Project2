@@ -34,6 +34,14 @@ The connection between the question and the dataset is apparent from the variabl
 
 ## Manipulations
 
+The first manipulation we made was filtering the data by recall type. Because we are taking the stance as an auto insurance agency, the only recall type that we are interested in is vehicles that are recalled. This means that the data will not display any data involving child seats, eqipment, or tires.
+
+The next manipulation we made was to set what years we were looking at. In order to keep the data more focused, we determined we were only interested in recalls made in the 21st century. We filtered the reports receieved date field by year, and selected all years starting from 2000 and ending at 2026.  
+
+The last manipulation we made was the range of how many potentially affected vehicles there were. We decided we wanted to focus on the top 15 manufactuers with the most recalls, as we felt this would help us focus our data and analysis better. Because of this, we set the lower range to be 5,000,000 recalls, which gave us the top 15 manufacturers we were looking for. We made no changes to the upper range.
+
+No calculations were made in this question.
+
 ## Analysis
 
 # Question 2
