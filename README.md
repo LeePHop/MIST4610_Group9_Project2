@@ -14,9 +14,9 @@ Considering all the information above, one may conclude that the provided datase
 
 When formulating our research questions, it was deliberate that they would be useful to ask from the viewpoint of an insurance company. This is important because apart from being data-based, the research questions should be practical, with a focus on risk assessment, financial implications, and liability in the future. Insurance companies are heavily dependent on finding patterns in safety issues like recalls when deciding how much premiums to charge for their customers, which policy to underwrite, and the risk involved.
 
-#Questions
+# Question 1
 
-    Question 1: What vehicle manufacturers have the highest number of potentially affected parts from recalls between 2000 and 2026?
+    What vehicle manufacturers have the highest number of potentially affected parts from recalls between 2000 and 2026?
 
 <img width="3167" height="1848" alt="Screenshot 2026-04-23 093049" src="https://github.com/user-attachments/assets/8b0eaf3a-6a1f-44c6-8f74-cad0a62b748f" />
 
@@ -36,8 +36,9 @@ The connection between the question and the dataset is apparent from the variabl
 
 ## Analysis
 
+# Question 2
 
-    Question 2: Has Ford improved their recalls over the last 26 years
+    Has Ford improved their recalls over the last 26 years
 <img width="3162" height="1848" alt="Screenshot 2026-04-23 092857" src="https://github.com/user-attachments/assets/dc4803de-465d-4279-b3d4-b49da291f753" />
 
 ## Why the question is important
