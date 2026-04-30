@@ -2,7 +2,7 @@
 
 # Team Members
 
-1. [Lee Hopkins](https://github.com)
+1. [Lee Hopkins](https://github.com/LeePHop)
 2. [James Troutt](https://github.com/trouttjames)
 3. [Sean Fisher](https://github.com/SeanFishe5)
 4. [Akhila Kothapalli](https://github.com/akhilakoth04)
