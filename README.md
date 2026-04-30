@@ -50,7 +50,7 @@ The last manipulation we made was the range of how many potentially affected veh
 No calculations were made in this question.
 
 ## Analysis
-In the graph above there is three companies that have over 100 million potentially affect parts: Ford, General Motors, and Chrysler. All three of these companies are based in the United States. Then there is a drop off of the top three and the rest of the companies with closet company being Toyota having a difference of roughly 28 million. This implies that American based cars have a high risk of having recalled parts. With this high risk it can cause a safety issue and make insurance companies want to possibly charge a higher premium just so that they are covered. 
+In the graph above there is three companies that have over 100 million potentially affect parts: Ford, General Motors, and Chrysler. All three of these companies are based in the United States. Then there is a drop off of the top three and the rest of the companies with closet company being Toyota having a difference of roughly 28 million. This implies that American based cars have a high risk of having recalled parts. With this high risk it can cause a safety issue and make insurance companies want to possibly charge a higher premium just so that they are covered.
 
 # Question 2
 
@@ -77,3 +77,4 @@ For the rows, we changed Reports Received Date into a continous variable rather 
 No calculations were made for this question. 
 
 ## Analysis
+In the 2000s, Ford had a huge spike then it dropped and stayed consistent up until 2020. Ford then had its largest spike in 2025 with almost 13 million units potentially affected. Currently in 2026, there is roughly 9 million affected parts. The large spike in 2025 might cause a higher frequency of losses of vehicles. This implies that insurance companies might be more cautious with 2025 Ford vehicles leading to a higher premium or making sure the liability is heavily on the manufacturer.
