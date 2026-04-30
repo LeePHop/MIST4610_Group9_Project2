@@ -50,6 +50,7 @@ The last manipulation we made was the range of how many potentially affected veh
 No calculations were made in this question.
 
 ## Analysis
+In the graph above there is three companies that have over 100 million potentially affect parts: Ford, General Motors, and Chrysler. All three of these companies are based in the United States. Then there is a drop off of the top three and the rest of the companies with closet company being Toyota having a difference of roughly 28 million. This implies that American based cars have a high risk of having recalled parts. With this high risk it can cause a safety issue and make insurance companies want to possibly charge a higher premium just so that they are covered. 
 
 # Question 2
 
